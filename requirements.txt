@@ -1,0 +1,10 @@
+# PyTorch
+torch
+torchvision
+torchinfo
+
+# DataScience
+matplotlib
+
+# Helpers
+tqdm
